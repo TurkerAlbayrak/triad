@@ -213,6 +213,4 @@ python3 examples/05_hata_gurultu_analizi/noise_analysis.py
   kuaterniyon veya açısal hata metriği bekler; önce dönüştürmeyi
   unutmayın (bkz. Örnek 03).
 
-## Lisans
 
-MIT Lisansı altında paylaşılmıştır - bkz. [`LICENSE`](LICENSE).
